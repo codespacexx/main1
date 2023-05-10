@@ -1,0 +1,7 @@
+first last
+First Last
+first@123
+first@1234
+first123
+first1234
+first12345
