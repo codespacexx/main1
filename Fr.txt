@@ -1,4 +1,0 @@
-<valid_keys>
-9ceee56144788c34
-UNIQUE_DEVICE_ID_2
-</valid_keys>
